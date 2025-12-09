@@ -1,4 +1,4 @@
-# EEG-Motor-Imagery-Classification-System
+# DocumentSense
 
 ## Table of Contents
 - [Introduction](##introduction)

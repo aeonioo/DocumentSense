@@ -65,7 +65,9 @@ Install dependencies:
 ### Data Input
 
 1.Open the [web application](link) and navigate to the Document Classification section.
+
 2.Upload a document file (image)
+
 3.The system will extract text, preprocess it, and instantly display the predicted document category based on the trained model.
 
 ## Additional Information

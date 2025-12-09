@@ -13,7 +13,7 @@
 
 ## Introduction
 
-**DocumentSense** is an end-to-end **Document Intelligence System** capable of classifying raw documents (PDFs/images) into meaningful business categories using OCR, metadata extraction, text embeddings, and machine learning.
+**DocumentSense** is an end-to-end **Document Intelligence System** capable of classifying raw documents (images) into meaningful business categories using OCR, metadata extraction, text embeddings, and machine learning.
 
 This system uses the **RVL-CDIP dataset**, one of the world's largest document-image datasets, and compresses the original **16 document classes into 5 practical enterprise level classes**.
 
@@ -84,6 +84,7 @@ This project uses a curated subset of the [RVL-CDIP dataset](link), a large coll
 ### Author
 
 Shaunak Pathak
+
 Feel free to reach out for questions or collaboration:
 shaupathak41@gmail.com
 
